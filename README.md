@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Woofer21
 - 👀 I’m interested in programing and photography
-- 🌱 I’m currently learning Java, Python, and JS
+- 🌱 Know some Python, JS/TS, Java, and C#
 - 📫 You can reach me on discord @ woofer21
